@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: lightning-scala
+Implementation-Version: 0.1.0-SNAPSHOT
+Specification-Vendor: lightning-viz
+Specification-Title: lightning-scala
+Implementation-Vendor-Id: org.lightning-viz
+Specification-Version: 0.1.0-SNAPSHOT
+Implementation-URL: http://lightning-viz.org
+Implementation-Vendor: lightning-viz
+
